@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Current Date and Time: $(date)" >> log.txt
+echo "Timestamp: $(date) - User: RoyalJonesGo" >> log.txt
